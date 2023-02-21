@@ -4,6 +4,25 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+//STORE => globalized state
+
+//ACTION => arttırma
+
+
+
+//REDUCER => ne dispatch edilirse onu çalıştırır,actiona göre story'i modify eder.
+
+
+
+// Display it on the Screen 
+
+
+//DİSPATCH => action u execute etdigimiz yanı çalıstırdıgımız yerdir.
+
+
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
